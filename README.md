@@ -9,6 +9,8 @@ A personal Arabic vocabulary trainer. Upload pictures, add translations, and pra
 - Accept multiple answers separated by semicolons
 - Earn points, replay rounds, and practice missed words
 - Reveal an answer during a round for 0 points and automatically continue after 4 seconds
+- Keep adding words after any round without replacing the existing collection
+- Automatically save pictures and translations for future visits, request persistent browser storage, and fall back to localStorage if IndexedDB is unavailable
 - Save detailed round history, including your answers and mistakes, in your browser with IndexedDB
 - Reopen past rounds and practice their missed words
 - Export and import JSON backups
