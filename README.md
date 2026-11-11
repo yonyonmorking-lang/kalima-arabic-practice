@@ -8,7 +8,9 @@ A personal Arabic vocabulary trainer. Upload pictures, add translations, and pra
 - Add translations in English, Hebrew, Arabic, or another language
 - Accept multiple answers separated by semicolons
 - Earn points, replay rounds, and practice missed words
-- Save words and score history in your browser with IndexedDB
+- Reveal an answer during a round for 0 points and automatically continue after 4 seconds
+- Save detailed round history, including your answers and mistakes, in your browser with IndexedDB
+- Reopen past rounds and practice their missed words
 - Export and import JSON backups
 - Responsive design for phones and desktops
 
